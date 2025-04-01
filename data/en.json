@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {
+      "name": "Nova",
+      "folder": "images/nova/survivor-cinema",
+      "prompt_name": "Survivor Cinema",
+      "prompt_details_file": "prompt.txt",
+      "images": [
+        "nova1.jpg",
+        "nova2.jpg"
+      ]
+    }
+  ]
+}
